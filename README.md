@@ -1,2 +1,5 @@
-# CLRS (Rust)
-Introduction to Algorithms (4th Edition) written in Rust
+# CLRS
+Implementations of Introduction to Algorithms (4th Edition) in multiple programming languages
+
+## Programming Languages
+- Rust
